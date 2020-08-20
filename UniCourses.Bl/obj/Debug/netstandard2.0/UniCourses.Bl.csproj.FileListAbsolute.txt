@@ -1,0 +1,12 @@
+C:\Users\YASIN\Desktop\UniCourses - Zeynep\uniCourses.com\UniCourses.Bl\bin\Debug\netstandard2.0\UniCourses.Bl.deps.json
+C:\Users\YASIN\Desktop\UniCourses - Zeynep\uniCourses.com\UniCourses.Bl\bin\Debug\netstandard2.0\UniCourses.Bl.dll
+C:\Users\YASIN\Desktop\UniCourses - Zeynep\uniCourses.com\UniCourses.Bl\bin\Debug\netstandard2.0\UniCourses.Dal.dll
+C:\Users\YASIN\Desktop\UniCourses - Zeynep\uniCourses.com\UniCourses.Bl\bin\Debug\netstandard2.0\UniCourses.Dal.pdb
+C:\Users\YASIN\Desktop\UniCourses - Zeynep\uniCourses.com\UniCourses.Bl\obj\Debug\netstandard2.0\UniCourses.Bl.csprojAssemblyReference.cache
+C:\Users\YASIN\Desktop\UniCourses - Zeynep\uniCourses.com\UniCourses.Bl\obj\Debug\netstandard2.0\UniCourses.Bl.AssemblyInfoInputs.cache
+C:\Users\YASIN\Desktop\UniCourses - Zeynep\uniCourses.com\UniCourses.Bl\obj\Debug\netstandard2.0\UniCourses.Bl.AssemblyInfo.cs
+C:\Users\YASIN\Desktop\UniCourses - Zeynep\uniCourses.com\UniCourses.Bl\obj\Debug\netstandard2.0\UniCourses.Bl.csproj.CopyComplete
+C:\Users\YASIN\Desktop\UniCourses - Zeynep\uniCourses.com\UniCourses.Bl\bin\Debug\netstandard2.0\UniCourses.Bl.pdb
+C:\Users\YASIN\Desktop\UniCourses - Zeynep\uniCourses.com\UniCourses.Bl\obj\Debug\netstandard2.0\UniCourses.Bl.dll
+C:\Users\YASIN\Desktop\UniCourses - Zeynep\uniCourses.com\UniCourses.Bl\obj\Debug\netstandard2.0\UniCourses.Bl.pdb
+C:\Users\YASIN\Desktop\UniCourses - Zeynep\uniCourses.com\UniCourses.Bl\obj\Debug\netstandard2.0\UniCourses.Bl.csproj.CoreCompileInputs.cache

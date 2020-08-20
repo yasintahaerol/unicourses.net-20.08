@@ -1,0 +1,20 @@
+﻿@model int
+@{
+    ViewData["Title"] = "OrderConfirmation";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container row">
+    <div class="col-12 text-center">
+        <h1 class="text-primary text-center">Sipariş Tamamlandı</h1><br />
+        <img src="~/images/Summary_Confirmation.png" width="20%" />
+    </div>
+    <div class="col-12 text-center" style="color:maroon">
+        <br />
+        Kursu Satın Aldığınız İçin Teşekkürler! <br />
+        Sipariş Bilgileriniz Email Üzerinden İletilecektir.
+        <br />
+        Your Order Number is : @Model
+    </div>
+</div>
+
